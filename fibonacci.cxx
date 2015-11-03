@@ -8,7 +8,7 @@ int main(){
   int b=1;
   int N;
   int c;
-  cout << "Geben sie N ein verdammt" << endl;
+  cout << "Insert N to obtain f(N) the fibonacci number" << endl;
 cin>>N;
   for(int i=1; i<N; i++){
   c=a+b;
